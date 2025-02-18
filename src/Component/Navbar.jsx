@@ -36,7 +36,7 @@ const Navbar = () => {
         <a href="#Project"><p>PROJECTS</p></a>
         <a href="#Git"><p>STATISTICS</p></a>
         <a href="#Contact"><p>CONTACT</p></a>
-        <a href="public/SuryaKiranMajhi-FullStackWebDeveloper-JEcK.pdf" download target="_blank" rel="noopener noreferrer">
+        <a href="public/SuryaKiranMajhi-FullStackWebDeveloper-2oej.pdf" download target="_blank" rel="noopener noreferrer">
           <p>RESUME</p>
         </a>
         <div className='btn'>
